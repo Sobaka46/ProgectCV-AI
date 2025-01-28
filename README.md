@@ -1,4 +1,4 @@
-- **Описание:** Реализация системы распознавания лиц в реальном времени.  
-- **Что сделано:  
-- Обработка видеопотока с использованием OpenCV.  
-- Обучение и использование пред обученных нейронных сетей для распознавания лиц.  
+- **Description:** Implementation of a real-time facial recognition system.  
+- **What's done:  
+- Video stream processing using OpenCV.  
+- Training and use of pre-trained neural networks for face recognition.
